@@ -1,0 +1,45 @@
+
+  
+  a {
+    color: #00B7FF;
+  }
+  
+  section:first-of-type {
+    margin-left: 0;
+  }
+  
+  section:last-of-type {
+    margin-right: 0;
+  }
+    
+  .insert {
+    background: #ecf0f1;
+  }
+  
+  .get {
+    background: #ecf0f1;
+  }
+  
+  .update {
+    background: #ecf0f1;
+  }
+  
+  .delete {
+    background: #ecf0f1;
+  }
+  
+  .input label {
+    display: block;
+    font-weight: bold;
+    padding: 2px 0;
+  }
+  
+  
+  .item {
+    margin: 10px 0;
+    padding: 5px;
+    background: #95a5a6;
+    border: 1px solid black;
+  }
+
+  

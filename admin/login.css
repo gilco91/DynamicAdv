@@ -1,0 +1,21 @@
+h1 {
+    margin: 2%;
+    margin: 15px 25px 50px
+}
+
+div{
+    margin-left: 2%;
+    margin: 15px;
+}
+
+p {
+    margin: 25px;
+}
+
+.navbar-brand{
+    margin-left: 20px;
+}
+tr{
+    border-bottom: 2pt solid #000000;
+}
+

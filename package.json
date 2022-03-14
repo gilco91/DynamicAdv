@@ -1,0 +1,36 @@
+{
+  "name": "milestone1_client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imorkravitz/AdvancedApp2_Client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imorkravitz/AdvancedApp2_Client/issues"
+  },
+  "homepage": "https://github.com/imorkravitz/AdvancedApp2_Client#readme",
+  "dependencies": {
+    "add": "^2.0.6",
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.1",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "jquery": "^3.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "kill-port": "^1.6.1",
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.1.4",
+    "socket.io": "^4.4.1"
+  }
+}
